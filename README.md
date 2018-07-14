@@ -12,11 +12,9 @@ I run a number of Monster Smash Tournaments at local Bay Area game conventions, 
 
 * First Place: Chris Mills <mills@mendel.berkeley.edu>
 
-![ms_96_chris_mills](/Users/christophera/projects/christophera/MonsterSmashGame2001/ms_96_chris_mills.gif)
+![ms_96_chris_mills](ms_96_chris_mills.gif)
 
-![ms_96_winner](/Users/christophera/projects/christophera/MonsterSmashGame2001/ms_96_winner.gif)
-
-
+![ms_96_winning moster](ms_96_winner.gif)
 
 Other PLAY-DOH® related web pages:
 
