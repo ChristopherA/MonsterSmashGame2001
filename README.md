@@ -1,6 +1,6 @@
 # Monster Smash Game 2001
 
-The Monster Smash Game, requires Play-Doh™ or other moldable clay. Originally published in 1994, revised is 2001, as archived at [Archive.org](https://web.archive.org/web/20050205051340/http://www.asmrb.org:80/members/gmfangs/ "Permalink to original source")
+The Monster Smash Game, requires Play-Doh™ or other moldable clay. Originally published in 1994, revised in 2001, as archived at [Archive.org](https://web.archive.org/web/20050205051340/http://www.asmrb.org:80/members/gmfangs/ "Permalink to original source")
 
 ## Monster Smash
 
@@ -24,4 +24,4 @@ Other PLAY-DOH® related web pages:
 
 > * * *
 
-Copyright (c) 1994-2001 Christopher Allen
+Copyright (c) 1994-2001 Christopher Allen. May be distributed freely  as long as this notice is included. 
