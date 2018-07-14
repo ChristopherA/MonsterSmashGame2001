@@ -1,44 +1,29 @@
-# MonsterSmashGame2001
-The Monster Smash Game, requires Play-Doh™ or other moldable clay. Originally published in 1994, revised is 2001
+# Monster Smash Game 2001
 
-[Source](https://web.archive.org/web/20050205051340/http://www.asmrb.org:80/members/gmfangs/ "Permalink to GM Fangs Home Page")
+The Monster Smash Game, requires Play-Doh™ or other moldable clay. Originally published in 1994, revised is 2001, as archived at [Archive.org](https://web.archive.org/web/20050205051340/http://www.asmrb.org:80/members/gmfangs/ "Permalink to original source")
 
-# GM Fangs Home Page
+## Monster Smash
 
-* * *
+Come join the fun of creating your own wonderful PLAY-DOH monsters and marching them across the table to attack one another. No experience necessary, just a desire to design, build, maneuver, and **SMASH** PLAY-DOH® monsters.
 
-> This site is extremely out of date, and is here mainly for those seeking the latest version of Monster Smash.
+I run a number of Monster Smash Tournaments at local Bay Area game conventions, in particular at [Dundracon](https://www.dundracon.com/). The latest version of Monster Smash, my one page PLAY-DOH® monster building and smashing game, in [Acrobat .pdf format (6,308 bytes)](Monster_Smash_2001.pdf).
 
-> ##  Games
+### 1996 DundraCon Tournament
 
-> ** Monster Smash**
-> :  Come join the fun of creating your own wonderful PLAY-DOH monsters and marching them across the table to attack one another. No experience necessary, just a desire to design, build, maneuver, and **SMASH** PLAY-DOH® monsters. I run a number of Monster Smash Tournaments at local Bay Area game conventions, in particular at [DundraCon][1].
->
-> The latest version of Monster Smash, my one page PLAY-DOH® monster building and smashing game, in [ Acrobat .pdf format (6,308 bytes) ][2].
->
->> **1996 DundraCon Tournament**
->
->> More photos from various tournaments will be at this site soon.
->>
->> Other PLAY-DOH® related web pages:
+* First Place: Chris Mills <mills@mendel.berkeley.edu>
+
+![ms_96_chris_mills](/Users/christophera/projects/christophera/MonsterSmashGame2001/ms_96_chris_mills.gif)
+
+![ms_96_winner](/Users/christophera/projects/christophera/MonsterSmashGame2001/ms_96_winner.gif)
+
+
+
+Other PLAY-DOH® related web pages:
+
+- [Clay-O-Rama - B/CS Intangible's Home Rules](https://web.archive.org/web/20050205051340/http://www.ghostwriter.iwarp.com/clay-o-ramarules.htm)
+- [Claydonia](https://web.archive.org/web/20050205051340/http://www.lemoorenet.com/people/c/chopper/claydonia.html)
+- [The Hasbro Official Play-Doh Page](https://web.archive.org/web/20050205051340/http://www.hasbropreschool.com/default.asp?x=playdoh)
 
 > * * *
 
-> ###  Contacting GM Fangs:
->
-> Christopher Allen   
-[  ][3]   
-1563 Solano Ave. #353   
-Berkeley, CA 94707-2116
->
-> Christopher's professional email address is [  ][4] and professional home page is [  ][5] .
-
-* * *
-
-Copyright (c) 2001 Christopher Allen
-
-[1]: https://web.archive.org/web/20050205051340/http://www.dundracon.com/
-[2]: https://web.archive.org/Monster_Smash_2001.pdf
-[3]: https://web.archive.org/%20gmfangs%40asmrb.org%3E
-[4]: https://web.archive.org/web/20050205051340/mailto:ChristopherA@AlacrityVentures.com
-[5]: https://web.archive.org/web/20050205051340/http://www.alacrityventures.com/allen.html
+Copyright (c) 1994-2001 Christopher Allen
